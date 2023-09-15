@@ -1,0 +1,97 @@
+{
+  "name": "Uniswap",
+  "timestamp": "2023-09-15T11:43:58.418Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "AxmToken1",
+      "address": "0xf381DD7f5b8D7719299eBcDd2A3aF4bb355AfF0F",
+      "symbol": "AX1",
+      "decimals": 18,
+      "chainId": 23411,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "AxmToken2",
+      "address": "0x98FE0a5b10afADAD48aaBcB7861bC6e0DA97A82a",
+      "symbol": "AX2",
+      "decimals": 18,
+      "chainId": 23411,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "AxmToken3",
+      "address": "0x810f43769F76A286B46f3fCf8edab07384C04Ee8",
+      "symbol": "AX3",
+      "decimals": 18,
+      "chainId": 23411,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x87dBFDad6586c50E5d886aa92F2aaE25614c24DC",
+      "symbol": "Dai",
+      "decimals": 18,
+      "chainId": 23411,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "USD//C",
+      "address": "0xfcF1100210E0364Ed484cB193E9772912bd92E0C",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 23411,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x47e5DA4fa8Ca511ed8002FaBFAeE6021b297c5BA",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 23411,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x9D92872E8F0ecf5FA333cc103000d8e4F6d81955",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 23411,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6e87Bd7B1DF5BB3E6E3076358C4977141bC9d5dD",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 65524,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 65524,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x73DcdfeBe2b1Db8FAe6f0A5AA0f35C3BaDa6811A",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 65524,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    }
+  ]
+}
